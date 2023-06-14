@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kousarraza 
+- 👋 Hi, I’m KOUSAR RAZA
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning Numpy & Pandas
+- 🌱 I’m currently learning Numpy , Pandas,Staticts, Math,Python,ML,Deep Learning
 - 💞️ I’m looking to collaborate on ...
