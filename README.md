@@ -1,4 +1,5 @@
 - 👋 Hi, I’m KOUSAR RAZA
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning Numpy , Pandas,Staticts, Math,Python,ML,Deep Learning
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Numpy, Pandas, Statistics, Math, Python, ML, and Deep Learning.
+- 💞️ I’m looking to collaborate on ML and Deep Learning Algorithms.
+- 
