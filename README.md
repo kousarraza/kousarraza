@@ -82,15 +82,12 @@
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kousarraza&theme=radical) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dataopsenthusiast&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kousarraza&theme=radical) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kousarraza=radical)
 
 <a><img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=kousarraza&theme=react-dark&hide_border=true" /></a>
 
 </div>
 
-<!--- Stats End --->
-  
-<!--- Languages & Tools End --->
 
 
 
