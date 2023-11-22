@@ -20,6 +20,6 @@
 
 <!-- Profile View Counter-->
 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=dataopsenthusiast&style=circle&color=blue" alt="views"/></div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=kousarraza&style=circle&color=blue" alt="views"/></div>
 <!-- Counter End -->
 
