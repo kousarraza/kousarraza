@@ -64,6 +64,31 @@
   
 &nbsp;
   </div>
+
+
+  <hr>
+<h2 align="center">GitHub Profile Stats</h2></p>
+<p align="center">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=kousarraza&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?userkousarraza&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+  
+</p>
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kousarraza&theme=radical)
+
+</div>
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kousarraza&theme=radical) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dataopsenthusiast&theme=radical)
+
+<a><img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=kousarraza&theme=react-dark&hide_border=true" /></a>
+
+</div>
+
+<!--- Stats End --->
   
 <!--- Languages & Tools End --->
 
