@@ -1,5 +1,6 @@
-- 👋 Hi, I’m KOUSAR RAZA
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Numpy, Pandas, Statistics, Math, Python, ML, and Deep Learning.
-- 💞️ I’m looking to collaborate on ML and Deep Learning Algorithms.
-- 
+<h1 align="center">Hi 👋, I'm Kousar Raza</h1>
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines👋, I'm Kousar Raza!;!&center=true&size=25">
+  </a>
+</h1>
