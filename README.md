@@ -9,7 +9,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/razakousar110/"><img width="66px" alt="Ig" title="Instagram" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Social_Icons/ig.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://web.facebook.com/RaXa.Kousar110"><img width="66px" alt="Fb" title="FaceBook" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Social_Icons/fb.png"/></a>
+  <a href="https://web.facebook.com/RaXa.Kousar110"><img width="66px" alt="Fb" title="Facebook" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Social_Icons/fb.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.youtube.com/channel/UCPz6tDmaaSONeO-jAmIlaNw" ><img width="66px" alt="Yt" title="Youtube" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Social_Icons/Youtube.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -24,6 +24,8 @@
 <!-- Counter End -->
 
 
+
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <!---languages & Tools text --->
 
 <div>&nbsp;</div>
