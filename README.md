@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey 👋, I'm Kousar Raza</h1>
 
-
+<h2 style="color:#fff">I'm <span class="typing" style="color:#12D640">Kousar Raza</span></h2>
 <!-- Social Handles-->
 
   <p align="center">
