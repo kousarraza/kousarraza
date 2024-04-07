@@ -22,9 +22,12 @@
 <div align="center"><img src="https://komarev.com/ghpvc/?username=kousarraza&style=circle&color=blue" alt="views"/></div>
 <!-- Counter End -->
 
+<div>
+  <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+</div>
 
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
 <!---languages & Tools text --->
 
 <div>&nbsp;</div>
