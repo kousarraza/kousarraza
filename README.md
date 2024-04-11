@@ -8,7 +8,7 @@
   
 <!-- Handles End-->
 <div>
-  <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+  <img align="center" alt="Coding" width="800" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 </div>
 
 
@@ -16,7 +16,6 @@
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=kousarraza&style=circle&color=blue" alt="views"/></div>
 <!-- Counter End -->
-
 <div>
 
 <!-- Social Handles-->
