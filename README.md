@@ -12,10 +12,11 @@
 
 
 <!-- Profile View Counter-->
-
-<div align="center"><img src="https://komarev.com/ghpvc/?username=kousarraza&style=circle&color=blue" alt="views"/></div>
+<p  align="center">
+  <img src="https://komarev.com/ghpvc/?username=kousarraza&style=circle&color=blue" alt="views"/></div>
 <!-- Counter End -->
-<div>
+</p>
+
 
 <!-- Social Handles-->
 
