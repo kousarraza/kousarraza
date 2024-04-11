@@ -1,6 +1,21 @@
 
 <h1 align="center">Hey 👋, I'm Kousar Raza</h1>
 
+
+  
+<!-- Handles End-->
+
+  <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+</div>
+
+
+<!-- Profile View Counter-->
+
+<div align="center"><img src="https://komarev.com/ghpvc/?username=kousarraza&style=circle&color=blue" alt="views"/></div>
+<!-- Counter End -->
+
+<div>
+
 <!-- Social Handles-->
 
   <p align="center">
@@ -13,21 +28,6 @@
   <a href="https://www.youtube.com/channel/UCPz6tDmaaSONeO-jAmIlaNw" ><img width="66px" alt="Yt" title="Youtube" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Social_Icons/Youtube.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   </p>
-  
-<!-- Handles End-->
-
-
-<!-- Profile View Counter-->
-
-<div align="center"><img src="https://komarev.com/ghpvc/?username=kousarraza&style=circle&color=blue" alt="views"/></div>
-<!-- Counter End -->
-
-<div>
-  <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-</div>
-
-
-
 <!---languages & Tools text --->
 
 <div>&nbsp;</div>
