@@ -1,15 +1,14 @@
-<div>
-  
-</div>
 
 <h1 align="center">Hey 👋, I'm Kousar Raza</h1>
 
 
+  <!-- Animated Hacker image -->
+
+<p  align="center">
+  <img  alt="Coding" width="600" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+</p>
   
-<!-- Handles End-->
-<div>
-  <img align= "center" alt="Coding" width="600" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-</div>
+
 
 
 <!-- Profile View Counter-->
