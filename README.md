@@ -10,6 +10,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://web.facebook.com/RaXa.Kousar110"><img width="66px" alt="Fb" title="Facebook" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Social_Icons/fb.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+
   <a href="https://www.youtube.com/channel/UCPz6tDmaaSONeO-jAmIlaNw" ><img width="66px" alt="Yt" title="Youtube" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Social_Icons/Youtube.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   </p>
