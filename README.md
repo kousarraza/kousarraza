@@ -16,7 +16,7 @@
  <img src="https://img.shields.io/badge/Life%20Long%20Learner-🌱-yellow" alt="Life Long Learner">
   <img src="https://img.shields.io/badge/Researcher%20&%20Writer-📚-red" alt="Researcher & Writer">
 </p>
-
+ 
 <h2 align="center">Connect with me:</h2>
 
 <p align="center">
