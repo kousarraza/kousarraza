@@ -33,6 +33,7 @@
  src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Social_Icons/Youtube.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-<h2 align="center"> Languages& Frameworks /Tools 🛠️🧰</h2>
+
+<h2 align="center">Languages & Frameworks / Tools 🛠️🧰 </h2>
 
 
