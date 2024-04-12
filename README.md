@@ -5,7 +5,7 @@
   <!-- Animated Hacker image -->
 
 <p  align="center">
-  <img  alt="Coding" width="600" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+  <img  alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 </p>
   
 
