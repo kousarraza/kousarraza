@@ -17,8 +17,7 @@
   <img src="https://img.shields.io/badge/Researcher%20&%20Writer-📚-red" alt="Researcher & Writer">
 </p>
 
-
-<p align="center"><img height="65" alt="Languages and tools text" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Social_Icons/"/></p>
+<h2 align="center">Connect with me:</h2>
 
 <p align="center"> <a href="https://www.linkedin.com/in/kousarraza110/"><img width="66px" alt="In" title="LinkedIn" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Social_Icons/in.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; 
