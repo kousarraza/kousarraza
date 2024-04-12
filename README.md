@@ -17,6 +17,7 @@
 <!-- Counter End -->
 </p>
 
+<p align="center">Welcome to my GitHub profile! I'm a passionate software engineer with expertise in various technologies and a strong interest in coding and building innovative solutions.</p>
 
 <!-- Social Handles-->
 
