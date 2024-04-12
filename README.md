@@ -56,11 +56,25 @@
 <img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/EXCEL.png" />
 <img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/visio.png" />
 <img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/SQL.png" />
-<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/PD.png" />
-<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/NUMPY.png" />
-<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/MATPLOTLIB.png" />
-<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/SCIKIT-LEARN.png" />
-
-
 &nbsp;
- </div>
+</div>
+
+<h2 align="center">GitHub  Stats</h2></p>
+
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kousarraza&theme=dark&hide_border=true&show_icons=true&count_private=true">
+</div>
+
+<br/>
+
+<div align="center">
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=kousarraza&theme=dark&hide_border=true" alt="GitHub Streak Stats">
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kousarraza&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"> -->
+</div>
+
+<br/>
