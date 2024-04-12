@@ -1,5 +1,5 @@
 <!-- Profile View Counter-->
-<p  align="left"> <img src="https://komarev.com/ghpvc/?username=kousarraza&label=Profile%20views&style=circle&color=blue" alt="views" width="400"/>
+<p  align="left"> <img src="https://komarev.com/ghpvc/?username=kousarraza&label=Profile%20views&style=circle&color=blue" alt="views" width="100"/>
 <!-- Counter End --></p>
 <h1 align="center">Hey 👋, I'm Kousar Raza</h1>
 <!-- Animated Hacker image -->
