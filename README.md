@@ -18,8 +18,9 @@
 </p>
 
 
-  <p align="center">
-  <a href="https://www.linkedin.com/in/kousarraza110/"><img width="66px" alt="In" title="LinkedIn" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Social_Icons/in.png"/></a>
+<p align="center"><img height="65" alt="Languages and tools text" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Images/Social_Icons.svg"/></p>
+
+<p align="center"> <a href="https://www.linkedin.com/in/kousarraza110/"><img width="66px" alt="In" title="LinkedIn" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Social_Icons/in.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; 
   <a href="https://www.instagram.com/razakousar110/"><img width="66px" alt="Ig" title="Instagram" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Social_Icons/ig.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
