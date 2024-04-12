@@ -74,7 +74,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kousarraza&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kousarraza&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"> 
 </div>
 
 <br/>
