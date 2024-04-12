@@ -3,7 +3,9 @@
 
 
   <!-- Animated Hacker image -->
-
+<div align="center">
+   <img  alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+</div>
 <p  align="center">
   <img  alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 </p>
