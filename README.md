@@ -56,10 +56,10 @@
 <img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/EXCEL.png" />
 <img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/visio.png" />
 <img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/SQL.png" />
-<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/Pandas.png" />
-<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/Numpy.png" />
-<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/Matplotlib.png" />
-<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/Scikit-Learn.png" />
+<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/PANDAS.png" />
+<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/NUMPY.png" />
+<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/MATPLOTLIB.png" />
+<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/SCIKIT-LEARN.png" />
 
 
 &nbsp;
