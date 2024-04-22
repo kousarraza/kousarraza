@@ -1,6 +1,9 @@
 <!-- Profile View Counter-->
 <p  align="left"> <img src="https://komarev.com/ghpvc/?username=kousarraza&label=Profile%20views&style=circle&color=blue" alt="views"/>
 <!-- Counter End --></p>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hey+Iam+Kousar+Raza" alt="Typing SVG" /></a>
+
 <h1 align="center">Hey 👋, I'm Kousar Raza</h1>
 <!-- Animated Hacker image -->
 <p align="center"> <img  alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"></p>
