@@ -12,7 +12,8 @@
 --------------------------------------
 ## About me🚀:
 
-<p align="center">
+<div>
+ <p align="center">
  <img src="https://img.shields.io/badge/Data%20Science%20Enthusiast-💻👨‍💻-blue" alt="Data Science Enthusiast">
  <img src="https://img.shields.io/badge/Passionate%20Coder-👩‍💻-purple" alt="Passionate Coder">
  <img src="https://img.shields.io/badge/Data%20Explporer-📈-orange" alt="Data Explorer">
@@ -21,7 +22,6 @@
   <img src="https://img.shields.io/badge/Researcher%20&%20Writer-📚-red" alt="Researcher & Writer">
 </p>
 
-<hr>
 🔭 I’m currently studying on BE-COMPUTER SCIENCE AND ENGINEERING FROM BHARATHIYAR INSTITUTE OF ENGINEERING FOR WOMEN
 
 🌱 I’m currently learning Data structure and Algorithm
@@ -35,6 +35,8 @@
 📄 Know about my experiences https://drive.google.com/file/d/1oF5h_4UP_Eppssv1jzijopE1h5GY-rNp/view?usp=drive_link
 
 ⚡ Fun fact I am funny
+
+</div>
 
 <h2 align="center">Connect with me:</h2>
 
