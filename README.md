@@ -21,10 +21,13 @@
   <img src="https://img.shields.io/badge/Researcher%20&%20Writer-📚-red" alt="Researcher & Writer">
 </p>
 
---------------------------------------
+
 🔭 I’m currently studying on BE-COMPUTER SCIENCE AND ENGINEERING FROM BHARATHIYAR INSTITUTE OF ENGINEERING FOR WOMEN
+
 🌱 I’m currently learning Data structure and Algorithm
+
 👨‍💻 All of my projects are available are https://65b60e0c4d919a3152bf53d3--sparkly-semolina-1b5537.netlify.app/
+
 💬 Ask me about web Development, python, full stack development, Cyber security
 
 📫 How to reach me rubacse2110@gmail.com
