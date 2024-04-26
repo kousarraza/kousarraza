@@ -39,7 +39,7 @@
 
 </div>
 
-<h2 align="center">Connect with me:</h2>
+<h2 align="center">Connect with me🤝:</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kousarraza110/"><img width="66px" alt="In" 
