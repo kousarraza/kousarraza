@@ -24,16 +24,18 @@
 
 * 🔭 I’m Currently working on[100 Days of Code Learning](https://github.com/kousarraza/100-Days-of-Code_Zero_to_Hero, "100 Days of Code Learning")
 
-* 🌱 I’m currently learning **Data Science and  Artificial Intelligence**
+* 🌱 I’m currently learning **Data Science and  Artificial Intelligence.**
 
-* 👨‍💻 All of my projects are available at https://github.com/kousarraza?tab=repositories
-* 👯 I’m looking to collaborate on **Real World Dataset Projects**
+* 👨‍💻 All of my projects are available at https://github.com/kousarraza?tab=repositories.
+* 👯 I’m looking to collaborate on **Real World Dataset Projects.**
 
-* 💬 Ask me about  **Python, Data Analysis, Visualization, Cleaning**
+* 💬 Ask me about  **Python, Data Analysis, Visualization, Cleaning.**
 
-* 📫 How to reach me kousarraza69@gmail.com
+* 📫 How to reach me kousarraza69@gmail.com.
 
-* ⚡ Fun fact **I am funny**
+* 📞 Don't hesitate to reach out & let's connect and start a conversation.
+* 
+* ⚡ Fun fact **I am funny.**
 
 </div>
 
