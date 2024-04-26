@@ -20,7 +20,7 @@
  <img src="https://img.shields.io/badge/Life%20Long%20Learner-🌱-yellow" alt="Life Long Learner">
   <img src="https://img.shields.io/badge/Researcher%20&%20Writer-📚-red" alt="Researcher & Writer">
 </p>
-
+----
 🔭 I’m currently studying on BE-COMPUTER SCIENCE AND ENGINEERING FROM BHARATHIYAR INSTITUTE OF ENGINEERING FOR WOMEN
 
 🌱 I’m currently learning Data structure and Algorithm
