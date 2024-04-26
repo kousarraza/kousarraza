@@ -26,7 +26,7 @@
 
 * 🌱 I’m currently learning **Data Science and  Artificial Intelligence**
 
-* 👨‍💻 All of my projects are available at [](https://github.com/kousarraza?tab=repositories)
+* 👨‍💻 All of my projects are available at https://github.com/kousarraza?tab=repositories
 * 👯 I’m looking to collaborate on Real World Dataset Projects
 
 * 💬 Ask me about  **Python, Data Analysis, Visualization, Cleaning**
