@@ -22,19 +22,18 @@
   <img src="https://img.shields.io/badge/Researcher%20&%20Writer-📚-red" alt="Researcher & Writer">
 </p>
 
-* 🔭 I’m currently studying on BE-COMPUTER SCIENCE AND ENGINEERING FROM BHARATHIYAR INSTITUTE OF ENGINEERING FOR WOMEN
+* 🔭 I’m Currently working on 100 Days of Coding
 
-* 🌱 I’m currently learning Data structure and Algorithm
+* 🌱 I’m currently learning **Data Science and  Artificial Intelligence**
 
-* 👨‍💻 All of my projects are available are https://65b60e0c4d919a3152bf53d3--sparkly-semolina-1b5537.netlify.app/
+* 👨‍💻 All of my projects are available at [](https://github.com/kousarraza?tab=repositories)
+* 👯 I’m looking to collaborate on Real World Dataset Projects
 
-* 💬 Ask me about web Development, python, full stack development, Cyber security
+* 💬 Ask me about  **Python, Data Analysis, Visualization, Cleaning**
 
-* 📫 How to reach me rubacse2110@gmail.com
+* 📫 How to reach me kousarraza69@gmail.com
 
-* 📄 Know about my experiences https://drive.google.com/file/d/1oF5h_4UP_Eppssv1jzijopE1h5GY-rNp/view?usp=drive_link
-
-* ⚡ Fun fact I am funny
+* ⚡ Fun fact **I am funny**
 
 </div>
 
