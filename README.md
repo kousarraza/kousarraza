@@ -22,12 +22,12 @@
   <img src="https://img.shields.io/badge/Researcher%20&%20Writer-📚-red" alt="Researcher & Writer">
 </p>
 
-* 🔭 I’m Currently working on 100 Days of Coding
+* 🔭 I’m Currently working on["100 Days of Code Learning"](https://github.com/kousarraza/100-Days-of-Code_Zero_to_Hero, "100 Days of Code Learning")
 
 * 🌱 I’m currently learning **Data Science and  Artificial Intelligence**
 
 * 👨‍💻 All of my projects are available at https://github.com/kousarraza?tab=repositories
-* 👯 I’m looking to collaborate on Real World Dataset Projects
+* 👯 I’m looking to collaborate on **Real World Dataset Projects**
 
 * 💬 Ask me about  **Python, Data Analysis, Visualization, Cleaning**
 
