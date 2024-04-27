@@ -112,6 +112,6 @@
 
 # ✍️ Random Day Quote
 
-"Code is poetry written in the language of logic."
+**" Code is poetry written in the language of logic."**
 
 <br/>
