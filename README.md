@@ -23,10 +23,13 @@
   </p>
  </div>
   
-<hr>
+
 
 #
- 
+
+<table style="border: none;" >
+<tr>
+<td style="text-align: justify;" >
 * 🔭 I’m Currently working on[100 Days of Code Learning](https://github.com/kousarraza/100-Days-of-Code_Zero_to_Hero, " 100 Days of Code Learning")
 
 * 🌱 I’m currently learning **Data Science and  Artificial Intelligence.**
