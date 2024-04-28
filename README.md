@@ -12,15 +12,17 @@
 --------------------------------------
 ## About me🚀:
 
- <div >
- <p align="center">
- <img src="https://img.shields.io/badge/Data%20Science%20Enthusiast-💻👨‍💻-blue" alt="Data Science Enthusiast">
- <img src="https://img.shields.io/badge/Passionate%20Coder-👩‍💻-purple" alt="Passionate Coder">
- <img src="https://img.shields.io/badge/Data%20Explporer-📈-orange" alt="Data Explorer">
- <img src="https://img.shields.io/badge/Python%20&%20Statistical%20Modeling%20Pro-🐍-green" alt="Python & Statistical Modeling Pro">
- <img src="https://img.shields.io/badge/Life%20Long%20Learner-🌱-yellow" alt="Life Long Learner">
-  <img src="https://img.shields.io/badge/Researcher%20&%20Writer-📚-red" alt="Researcher & Writer">
-</p>
+ <div>
+   <p align="center">
+    <img src="https://img.shields.io/badge/Data%20Science%20Enthusiast-💻👨‍💻-blue" alt="Data Science Enthusiast">
+    <img src="https://img.shields.io/badge/Passionate%20Coder-👩‍💻-purple" alt="Passionate Coder">
+    <img src="https://img.shields.io/badge/Data%20Explporer-📈-orange" alt="Data Explorer">
+    <img src="https://img.shields.io/badge/Python%20&%20Statistical%20Modeling%20Pro-🐍-green" alt="Python & Statistical Modeling Pro">
+    <img src="https://img.shields.io/badge/Life%20Long%20Learner-🌱-yellow" alt="Life Long Learner">
+    <img src="https://img.shields.io/badge/Researcher%20&%20Writer-📚-red" alt="Researcher & Writer">
+  </p>
+ </div>
+  
 <hr>
  
 * 🔭 I’m Currently working on[100 Days of Code Learning](https://github.com/kousarraza/100-Days-of-Code_Zero_to_Hero, " 100 Days of Code Learning")
