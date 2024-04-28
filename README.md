@@ -112,6 +112,6 @@
 
 # ✍️ Random Day Quote
 
-**" Code is poetry written in the language of logic."**
+**"Coding is not just about commands and syntax; it's about solving problems and making things work."**
 
 <br/>
