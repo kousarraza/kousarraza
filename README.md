@@ -112,6 +112,6 @@
 
 # ✍️ Random Day Quote
 
-**"Coding is not just about commands and syntax; it's about solving problems and making things work."**
+### **"Coding is not just about commands and syntax; it's about solving problems and making things work."**
 
 <br/>
