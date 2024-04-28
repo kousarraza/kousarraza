@@ -25,7 +25,7 @@
   
 <hr>
 
-<div border=" 1px solid black;">
+<div border:1px solid black;>
  
 * 🔭 I’m Currently working on[100 Days of Code Learning](https://github.com/kousarraza/100-Days-of-Code_Zero_to_Hero, " 100 Days of Code Learning")
 
