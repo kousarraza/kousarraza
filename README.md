@@ -66,6 +66,10 @@
    <a href="https://www.youtube.com/channel/UCPz6tDmaaSONeO-jAmIlaNw" ><img width="66px" alt="Yt" title="Youtube" 
  src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Social_Icons/Youtube.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+
+  <a href="https://stackoverflow.com/users/10299653/kousar-raza/"><img width="66px" alt="In" 
+  title="Stackoverflow"src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Social_Icons/in.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287; 
 </p>
 
 <h2 align="center">Languages & Frameworks / Tools 🛠️🧰 </h2>
