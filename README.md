@@ -25,7 +25,7 @@
   
 <hr>
 
-<div border:1px solid black;>
+#
  
 * 🔭 I’m Currently working on[100 Days of Code Learning](https://github.com/kousarraza/100-Days-of-Code_Zero_to_Hero, " 100 Days of Code Learning")
 
@@ -42,7 +42,9 @@
  
 * ⚡ Fun fact **I am funny.**
 
-</div>
+
+
+#
 
 <h2 align="center">Connect with me🤝:</h2>
 
