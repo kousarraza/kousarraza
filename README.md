@@ -124,6 +124,6 @@
 
 # ✍️ Random Day Quote
 
-### **"Programming isn’t about what you know; it’s about what you can figure out."**
+### **"Programming is the closest thing we have to magic in the real world."**
 
 <br/>
