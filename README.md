@@ -52,22 +52,13 @@
 
 
 <h2 align="left">Connect with me🤝:</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kousarraza110/"><img width="66px" alt="In" 
-  title="LinkedIn"src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Social_Icons/in.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287; 
-  <a href="https://www.instagram.com/razakousar110/"><img width="66px" alt="Ig" title="Instagram" 
-  src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Social_Icons/ig.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://web.facebook.com/RaXa.Kousar110"><img width="66px" alt="Fb" title="Facebook" 
- src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Social_Icons/fb.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://www.youtube.com/channel/UCPz6tDmaaSONeO-jAmIlaNw" ><img width="66px" alt="Yt" title="Youtube" 
- src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Social_Icons/Youtube.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-
-</p>
+<div align="center">
+    <a href="https://www.linkedin.com/in/kousarraza110/" target="_blank"><img src="https://img.shields.io/badge/-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+   <a href="https://www.instagram.com/razakousar110/" target="_blank"><img src="https://img.shields.io/badge/-3B5998?style=flat&logo=LabLab&logoColor=white"/></a>
+    <a href="https://web.facebook.com/RaXa.Kousar110" target="_blank"><img src="https://img.shields.io/badge/-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
+    <a href="https://www.youtube.com/channel/UCPz6tDmaaSONeO-jAmIlaNw" target="_blank"><img src="https://img.shields.io/badge/-LabLab Profile-3B5998?style=flat&logo=LabLab&logoColor=white"/></a>
+ 
+</div>
 
 <h2 align="center">Languages & Frameworks / Tools 🛠️🧰 </h2>
 
