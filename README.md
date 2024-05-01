@@ -124,6 +124,6 @@
 
 # ✍️ Random Day Quote
 
-### **"Programming is the closest thing we have to magic in the real world."**
+### **"Coding is not just about commands and syntax; it's about solving problems and making things work""**
 
 <br/>
