@@ -124,6 +124,6 @@
 
 # ✍️ Random Day Quote
 
-### **"Coding is not just about commands and syntax; it's about solving problems and making things work."**
+### **" Programming is a skill best acquired by practice and example rather than from books."**
 
 <br/>
