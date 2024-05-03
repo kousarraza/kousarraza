@@ -124,6 +124,6 @@
 
 # ✍️ Random Day Quote
 
-### **" Programming is a skill best acquired by practice and example rather than from books."**
+### **"Programming isn't about what you know; it's about what you can figure out.."**
 
 <br/>
