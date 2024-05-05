@@ -55,20 +55,11 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kousarraza110/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kousar raza" height="30" width="40" /></a>
-
-<a href="https://web.facebook.com/RaXa.Kousar110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kousar raza" height="30" width="40" /></a>
- 
+<a href="https://web.facebook.com/RaXa.Kousar110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kousar raza" height="30" width="40" /></a> 
 <a href="https://www.instagram.com/razakousar110/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kousar raza" height="30" width="40" /></a>
-
 <a href="https://www.youtube.com/channel/UCPz6tDmaaSONeO-jAmIlaNw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kousar raza" height="30" width="40" /></a>
-
 <a href="https://kaggle.com/janvi wanjari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="janvi wanjari" height="30" width="40" /></a>
 
-
-
-
-<a href="https://www.youtube.com/c/janvi wanjari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="janvi wanjari" height="30" width="40" /></a>
-</p>
 
 <h2 align="center">Languages & Frameworks / Tools 🛠️🧰 </h2>
 
