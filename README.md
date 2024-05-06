@@ -119,6 +119,6 @@
 
 # ✍️ Random Day Quote
 
-### **"If debugging is the process of removing bugs, then programming must be the process of putting them in."**
+### **"The purpose of programming is to make computers do what you want them to do."**
 
 <br/>
