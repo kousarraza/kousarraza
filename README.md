@@ -103,7 +103,7 @@
 
 <br/>
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kousarraza&theme=vision-friendly-dark" alt="GitHub Streak" /></a> 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kousarraza&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" /></a> 
 </div>
 <br/>
 
