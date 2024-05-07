@@ -60,10 +60,6 @@
 <a href="https://www.youtube.com/channel/UCPz6tDmaaSONeO-jAmIlaNw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kousar raza" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/kousarraza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kousar raza" height="30" width="40" /></a>
 <a href="https://medium.com/@kousarraza69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="kousar raza" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/10299653/kousar-raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stackoverflow.svg" alt="kousar raza" height="30" width="40" /></a>
-
-
-
 <h2 align="center">Languages & Frameworks / Tools 🛠️🧰 </h2>
 
 <div align="center">
@@ -92,7 +88,7 @@
 <h2 align="center">GitHub  Stats</h2></p>
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kousarraza&theme=dark&show_icons=true&count_private=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kousarraza&theme=chartreuse-darkshow_icons=true&count_private=true">
 </div>
 
 <br/>
@@ -101,7 +97,7 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kousarraza&theme=hartreuse-dark&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kousarraza&theme=chartreuse-dark&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"> 
 </div>
 
 <br/>
