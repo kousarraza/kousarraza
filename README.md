@@ -118,7 +118,7 @@
 
 # ✍️ Random Day Quote
 
-### **"The purpose of programming is to make computers do what you want them to do."**
+### **"Programming is learned by writing programs."**
 
 
 <br/>
