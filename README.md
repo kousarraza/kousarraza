@@ -112,7 +112,7 @@
 
 # ✍️ Random Day Quote
 
-### **"Programming is learned by writing programs."**
+### **"The only way to learn a new programming language is by writing programs in it."**
 
 
 <br/>
