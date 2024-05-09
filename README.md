@@ -93,7 +93,7 @@
 
 <br/>
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=kousarraza&theme=vision-friendly-dark" alt="GitHub Streak" /></a> 
+    <img src="https://streak-stats.demolab.com?user=kousarraza&theme=dark" alt="GitHub Streak" /></a> 
 </div>
 <br/>
 <div align="center">
