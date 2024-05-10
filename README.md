@@ -88,12 +88,12 @@
 <h2 align="center">GitHub  Stats</h2></p>
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kousarraza&theme=vision-friendly-dark&show_icons=true&count_private=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kousarraza&theme=chartreuse-dark&show_icons=true&count_private=true">
 </div>
 
 <br/>
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=kousarraza&theme=dark" alt="GitHub Streak" /></a> 
+    <img src="https://streak-stats.demolab.com?user=kousarraza&theme=chartreuse-dark" alt="GitHub Streak" /></a> 
 </div>
 <br/>
 <div align="center">
