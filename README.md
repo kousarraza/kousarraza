@@ -112,7 +112,7 @@
 
 # ✍️ Random Day Quote
 
-### **"The only way to learn a new programming language is by writing programs in it."**
+### **"A programming language is for thinking about programs, not for expressing programs you've already thought of. It should be a pencil, not a pen." - Paul Graham**
 
 
 <br/>
