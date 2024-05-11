@@ -60,7 +60,8 @@
 <a href="https://www.youtube.com/channel/UCPz6tDmaaSONeO-jAmIlaNw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kousar raza" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/kousarraza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kousar raza" height="30" width="40" /></a>
 <a href="https://medium.com/@kousarraza69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="kousar raza" height="30" width="40" /></a>
-<h2 align="center">Languages & Frameworks / Tools 🛠️🧰 </h2>
+  
+<h2 align="left">Languages & Frameworks / Tools 🛠️🧰 </h2>
 
 <div align="center">
 
