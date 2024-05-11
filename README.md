@@ -100,7 +100,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kousarraza&theme=vision-friendly-dark&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"> 
 </div>
 
-<br/>
+<br/>  
 
 ## 🏆 GitHub Trophies
 
