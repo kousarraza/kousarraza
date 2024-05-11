@@ -83,7 +83,7 @@
 <img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/visio.png" />
 <img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/SQL.png" />
 &nbsp;
-</div>
+</div>   
 
 <h2 align="center">GitHub  Stats</h2></p>
 
