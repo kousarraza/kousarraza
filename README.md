@@ -97,10 +97,6 @@
     <img src="https://streak-stats.demolab.com?user=kousarraza&theme=chartreuse-dark" alt="GitHub Streak" /></a> 
 </div>
 <br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kousarraza&
-    chartreuse-dark&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"> 
-</div>
 
 <br/>  
 
