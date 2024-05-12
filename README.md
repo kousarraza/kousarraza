@@ -1,4 +1,4 @@
-      <!-- Profile View Counter-->                         
+<!-- Profile View Counter-->                         
 <p  align="left"> <img src="https://komarev.com/ghpvc/?username=kousarraza&label=Profile%20views&style=circle&color=blue" alt="views"/>
 <!-- Counter End --></p>       
                                                               
@@ -98,7 +98,7 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kousaraza&vision-friendly-dark&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kousaraza &vision-friendly-dark&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"> 
 </div>
 
 <br/>  
