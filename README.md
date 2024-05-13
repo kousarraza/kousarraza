@@ -110,6 +110,6 @@
 
 # ✍️ Random Day Quote
 
-### **"Coding like poetry should be short and concise." ― Santosh Kalwar**
+### **"Programming is a process of discovery, not creation."**
 
 <br/>
