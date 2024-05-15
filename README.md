@@ -12,7 +12,7 @@
 --------------------------------------
 ## About me🚀:
 
- <div>
+ <div>   
    <p align="center">
     <img src="https://img.shields.io/badge/Data%20Science%20Enthusiast-💻👨‍💻-blue" alt="Data Science Enthusiast">
     <img src="https://img.shields.io/badge/Passionate%20Coder-👩‍💻-purple" alt="Passionate Coder">
