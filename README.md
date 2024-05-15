@@ -86,7 +86,7 @@
 &nbsp;
 </div>   
 
-<h2 align="center">GitHub  Stats</h2></p>
+<h2 align="center">GitHub  Stats</h2></p> 
 
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kousarraza&theme=chartreuse-dark&show_icons=true&count_private=true">
