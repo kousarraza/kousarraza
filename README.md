@@ -94,7 +94,7 @@
 
 <br/>
 <div align="center">
-    <img src="https://streak-stats.demolab.com/?user=kousarraza&theme=dark-green" alt="GitHub Streak" /></a>
+    <img src="https://streak-stats.demolab.com/?user=kousarraza&theme=dark" alt="GitHub Streak" /></a>
 </div>
 <br/>
 
@@ -105,8 +105,8 @@
 <br/>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kousarraza&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=kousarraza&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+</div>   
 
 # ✍️ Random Day Quote
 
