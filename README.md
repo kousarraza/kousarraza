@@ -58,7 +58,7 @@
 <a href = "https://www.instagram.com/razakousar110/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href="https://www.youtube.com/channel/UCPz6tDmaaSONeO-jAmIlaNw" target="blank"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>
 <a href = "https://discord.com/channels/@me"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
-<a href="https://www.kaggle.com/kousarraza" target="blank" src="https://github.com/tuomastik/icons/blob/master/kaggle_logo/kaggle_logo_blue_256x256.png"/></a>
+<a href="https://www.kaggle.com/kousarraza" target="blank"><img src="https://github.com/tuomastik/icons/blob/master/kaggle_logo/kaggle_logo_blue_256x256.png"/></a>
 <a href = "https://medium.com/@kousarraza69"><img src="https://img.icons8.com/color/48/000000/medium.png"/></a>
 <a href = "https://stackoverflow.com/users/10299653/kousar-raza"><img src="https://img.icons8.com/fluent/48/000000/stackoverflow.png"/></a>
 
