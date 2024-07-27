@@ -58,7 +58,7 @@
 <a href = "https://www.instagram.com/razakousar110/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href="https://www.youtube.com/channel/UCPz6tDmaaSONeO-jAmIlaNw" target="blank"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>
 <a href = "https://discord.com/channels/@me"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
-<a href="https://www.kaggle.com/kousarraza" target="blank"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"> <!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M304.2 501.5L158.4 320.3 298.2 185c2.6-2.7 1.7-10.5-5.3-10.5h-69.2c-3.5 0-7 1.8-10.5 5.3L80.9 313.5V7.5q0-7.5-7.5-7.5H21.5Q14 0 14 7.5v497q0 7.5 7.5 7.5h51.9q7.5 0 7.5-7.5v-109l30.8-29.3 110.5 140.6c3 3.5 6.5 5.3 10.5 5.3h66.9q5.3 0 6-3z"/></svg> /></a>
+<a href="https://www.kaggle.com/kousarraza" target="blank" src="https://www.pngwing.com/en/free-png-arnne">
 <a href = "https://medium.com/@kousarraza69"><img src="https://img.icons8.com/color/48/000000/medium.png"/></a>
 <a href = "https://stackoverflow.com/users/10299653/kousar-raza"><img src="https://img.icons8.com/fluent/48/000000/stackoverflow.png"/></a>
 
