@@ -1,5 +1,5 @@
                
-<p  align="left"> <img         src="https://komarev.com/ghpvc/?username=kousarraza&label=Profile%20views&style=circle&color=blue" alt="views"/>
+<p  align="left"> <img    src="https://komarev.com/ghpvc/?username=kousarraza&label=Profile%20views&style=circle&color=blue" alt="views"/>
 <!-- Counter End --></p>                                                 
 <!-- Animated Hacker image -->      
 <p align="center"> <img  alt="Coding" width="300"   src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"></p>             
@@ -53,7 +53,7 @@
 <h2 align="left">Connect with me🤝:</h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kousarraza110/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kousar raza" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kousarraza110/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" align="center"  alt="kousar raza" height="30" width="40" /></a>
 <a href="https://web.facebook.com/RaXa.Kousar110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kousar raza" height="30" width="40" /></a> 
 <a href="https://www.instagram.com/razakousar110/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kousar raza" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCPz6tDmaaSONeO-jAmIlaNw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kousar raza" height="30" width="40" /></a>
