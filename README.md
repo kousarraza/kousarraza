@@ -55,7 +55,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/kousarraza110/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
 <a href="https://web.facebook.com/RaXa.Kousar110" target="blank"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a> 
-<a href="https://www.instagram.com/razakousar110/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/instagram.png"" /></a>
+<a href="https://www.instagram.com/razakousar110/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/instagram.png" /></a>
 <a href="https://www.youtube.com/channel/UCPz6tDmaaSONeO-jAmIlaNw" target="blank"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>
 <a href="https://www.kaggle.com/kousarraza" target="blank"><img src="https://img.icons8.com/fluent/48/000000/kaggle.png" /></a>
 <a href="https://medium.com/@kousarraza69" target="blank"><img src="https://img.icons8.com/fluent/48/000000/medium.png"/></a>
