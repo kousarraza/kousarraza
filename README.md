@@ -100,10 +100,6 @@
 <br/>
 
 <br/>  
-  
--------------------------------
-# Badges
-[![committers.top badge](https://user-badge.committers.top/pakistan/=kousarraza.svg)](https://user-badge.committers.top/pakistan/=kousarraza)
 
 # ✍️ Random Day Quote
 
