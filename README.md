@@ -87,12 +87,13 @@
 <h2 align="center">GitHub  Stats</h2></p> 
 
 <div align="center">
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kousarraza&theme=blue-green&show_icons=true&count_private=true">
 </div>
 
 <br/>
 <div align="center">
-    <img src="https://streak-stats.demolab.com/?user=kousarraza&theme=blue-green" alt="GitHub Streak" /></a>
+   <img src="https://streak-stats.demolab.com?user=kousarraza&theme=ads-juicy-fresh" alt="GitHub Streak" />
 </div>
 <br/>
 
