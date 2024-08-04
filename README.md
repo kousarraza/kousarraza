@@ -87,26 +87,6 @@
 
 <br/>
 
-<div>
-<h2 >📊 GitHub  Stats</h2>
-
-<div align="center">
-
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kousarraza&show_icons=true&theme=radical">
-   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kousarraza&theme=dark&hide_border=true&show_icons=true&count_private=true">
-</div>
-
-<br/>
-
-
-<div align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=kousarraza&theme=dark&hide_border=true" alt="GitHub Streak Stats">
-</div>
-
-</div>
-<br/>
-
 # ✍️ Random Day Quote
 
 ### **"Programming is a process of discovery, not creation."**
