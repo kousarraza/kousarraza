@@ -1,5 +1,7 @@
+
 <p  align="left"> <img    src="https://komarev.com/ghpvc/?username=kousarraza&label=Profile%20views&style=circle&color=blue" alt="views"/>
-<!-- Counter End --></p>                                                                       
+<!-- Counter End --></p>    
+
 <!-- Animated Hacker image -->      
 <p align="center"> <img  alt="Coding" width="300"   src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"></p>             
                                                 
@@ -21,7 +23,7 @@
   </p>
  </div>
   
-
+# 
 <table style="border: none;" >
 <tr>
 <td style="text-align: justify;" >
@@ -41,7 +43,7 @@
  
 * ⚡ Fun fact **I am funny.**
 
-
+# 
 
 
 <h2 align="left">Connect with me🤝:</h2>
@@ -81,6 +83,7 @@
 &nbsp;
 </div>   
 
+<div>
 <h2 align="center">GitHub  Stats</h2></p> 
 
 <div align="center">
