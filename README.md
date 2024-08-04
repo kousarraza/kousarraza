@@ -84,23 +84,25 @@
 &nbsp;
 </div>   
 
+
+<br/>
+
 <div>
-<h2 align="center">GitHub  Stats</h2></p> 
+<h2 align="center">📊 GitHub  Stats</h2></p> 
 
 <div align="center">
-
-<div align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com?user=kousarraza&theme=dark&hide_border=true" alt="GitHub Streak Stats">
-</div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kousarraza&theme=dark&hide_border=true&show_icons=true&count_private=true">
 </div>
 
 <br/>
+
+
 <div align="center">
-   <img src="https://streak-stats.demolab.com?user=kousarraza&theme=ads-juicy-fresh" alt="GitHub Streak" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=kousarraza&theme=dark&hide_border=true" alt="GitHub Streak Stats">
+</div>
+
 </div>
 <br/>
-
-<br/>  
 
 # ✍️ Random Day Quote
 
