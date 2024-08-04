@@ -92,7 +92,7 @@
 
 <div align="center">
 
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kousarraza&show_icons=true&theme=radical">
    
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kousarraza&theme=dark&hide_border=true&show_icons=true&count_private=true">
 </div>
