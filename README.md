@@ -88,11 +88,11 @@
 <br/>
 
 <div>
-<h2 align="center">📊 GitHub  Stats</h2></p> 
+<h2 >📊 GitHub  Stats</h2>
 
 <div align="center">
 
-   <a hrf="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)"></a>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
    
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kousarraza&theme=dark&hide_border=true&show_icons=true&count_private=true">
 </div>
