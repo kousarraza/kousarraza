@@ -22,9 +22,6 @@
  </div>
   
 
-
-#
-
 <table style="border: none;" >
 <tr>
 <td style="text-align: justify;" >
@@ -45,8 +42,6 @@
 * ⚡ Fun fact **I am funny.**
 
 
-
-#
 
 
 <h2 align="left">Connect with me🤝:</h2>
