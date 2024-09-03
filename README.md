@@ -94,19 +94,19 @@
 <br/>
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kousarraza&theme=burnt-neon&hide_border=true&show_icons=true&count_private=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kousarraza&theme=ads-juicy-fresh&hide_border=true&show_icons=true&count_private=true">
 </div>
 
 <br/>
 
 <div align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=kousarraza&theme=burnt-neon&hide_border=true" alt="GitHub Streak Stats">
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=kousarraza&theme=ads-juicy-fresh&hide_border=true" alt="GitHub Streak Stats">
 </div>
 
 <br/>
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kousarraza&theme=burnt-neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kousarraza&theme=ads-juicy-fresh&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"> 
 </div>
 
 <br/>
