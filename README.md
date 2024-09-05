@@ -100,13 +100,13 @@
 <br/>
 
 <div align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=kousarraza&theme=blue-green&hide_border=true" alt="GitHub Streak Stats">
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=kousarraza&theme=radical&hide_border=true" alt="GitHub Streak Stats">
 </div>
 
 <br/>
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kousarraza&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kousarraza&theme=   radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"> 
 </div>
 
 <br/>
