@@ -94,7 +94,7 @@
 <br/>
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kousarraza&theme=blue-green&hide_border=true&show_icons=true&count_private=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kousarraza&theme=neon&hide_border=true&show_icons=true&count_private=true">
 </div>
 
 <br/>
