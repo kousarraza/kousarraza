@@ -1,3 +1,6 @@
+
+# Top Ranked 
+https://user-badge.committers.top/pakistan/kousarraza
                                    
 <p  align="left"> <img    src="https://komarev.com/ghpvc/?username=kousarraza&label=Profile%20views&style=circle&color=blue" alt="views"/>
 <!-- Counter End --></p>      
@@ -5,7 +8,7 @@
 <!-- Animated Hacker image -->     
             
 <p align="center"> <img  alt="Coding" width="300"   src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"></p>             
-                                                      
+                                                    
 --------------------------------                 
 <div  align="center"><a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=80&size=24&duration=8000&pause=1000&color=1AA1F7&center=true&vCenter=true&random=false&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Kousar+Raza;I+am+Programmer;Always+Learning+new+things" alt="Typing SVG" /></a></div>                       
               
