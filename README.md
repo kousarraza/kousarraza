@@ -1,7 +1,4 @@
-
-# Top Ranked 
-https://user-badge.committers.top/pakistan/kousarraza
-                                   
+                           
 <p  align="left"> <img    src="https://komarev.com/ghpvc/?username=kousarraza&label=Profile%20views&style=circle&color=blue" alt="views"/>
 <!-- Counter End --></p>      
               
