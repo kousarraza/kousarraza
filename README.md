@@ -93,8 +93,8 @@
 ---
 
 |Project                 | **Project Description**  |         **Technologies**                     | **Live Demo**        | **GitHub Repo**  |
-|------------------------|--------------------------|----------------------------------------------|----------------------|------------------|**[try it](https://shorturl.at/roI25)**  | **[View GitHub Repo](https://shorturl.at/roI25)** |
-|Social Media Sentiment Analysics|To use ML Algorithms Performed on<br> Social Media Sentiment Analysics| Seaborn, Matplotlib, Pandas, Numpy|   
+|------------------------|--------------------------|----------------------------------------------|----------------------|------------------|
+|Social Media Sentiment Analysics|To use ML Algorithms Performed on<br> Social Media Sentiment Analysics| Seaborn, Matplotlib, Pandas, Numpy| **[try it](https://shorturl.at/roI25)**  | **[View GitHub Repo](https://shorturl.at/roI25)**|  
 |Predict Customer Churn|To Predict Customer Churn using <br> Random Forest Model & Logistic Regression Model |Python,Pandas, Numpy,Sklearn|
 | Road Accident Analysis |A Road Accident Analysist |Python, Pandas, Numpy, Seaborn|**[try it](https://shorturl.at/Hyyer)**  | [View GitHub Repo](https://shorturl.at/Hyyer) |
 |Titanic Dataset EDA|Perform EDA on Titanic dataset|Matplotlib, Pandas, Numpy, Seaborn|**[try it](https://shorturl.at/gBXdZ)** | [View GitHub Repo](https://shorturl.at/gBXdZ) |
