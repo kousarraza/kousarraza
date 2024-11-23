@@ -99,6 +99,7 @@
 |Predict Customer Churn|To Predict Customer Churn using <br> Random Forest Model & Logistic Regression Model. |Python,Pandas, Numpy,Sklearn|**[try it]( https://shorturl.at/9srMC)**  | **[View GitHub Repo]( https://shorturl.at/9srMC)**|
 | Road Accident Analysis |A Road Accident Analysist. |Python, Pandas, Numpy, Seaborn|**[try it](https://shorturl.at/Hyyer)**  | [View GitHub Repo](https://shorturl.at/Hyyer) |
 |Titanic Dataset EDA|Perform EDA on Titanic dataset.|Matplotlib, Pandas, Numpy, Seaborn|**[try it](https://shorturl.at/gBXdZ)** | [View GitHub Repo](https://shorturl.at/gBXdZ) |
+|Basic Calculator|To Perform basic arthmetic operations( +, -, x,/).|Python( if,elif,input)| **[try it](https://shorturl.at/gdACH)**  | **[View GitHub Repo](https://shorturl.at/gdACH)**|   
 
 
 
