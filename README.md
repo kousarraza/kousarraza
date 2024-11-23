@@ -95,7 +95,7 @@
 
 |Project                 | **Project Description**  |         **Technologies**                     | **Live Demo**                     | **GitHub Repo**               |
 |------------------------|--------------------------|----------------------------------------------|----------------------------------|--------------------------------|
-| Road_Accident_Analysis ||A Road Accident Analysist| - Python<br>- Pandas<br>- Numpy<br>-  Seaborn| **#(try it(https://shorturl.at/Hyyer)**             | [View GitHub Repo](#)         |  
+| Road_Accident_Analysis |A Road Accident Analysist | - Python<br>- Pandas<br>- Numpy<br>-  Seaborn| **#(try it(https://shorturl.at/Hyyer)**             | [View GitHub Repo](#)         |  
 
 
 ## 📊 GitHub Stats:
