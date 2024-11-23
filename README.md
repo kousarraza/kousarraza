@@ -94,7 +94,7 @@
 |Project                 | **Project Description**  |         **Technologies**                     | **Live Demo**        | **GitHub Repo**  |
 |------------------------|--------------------------|----------------------------------------------|----------------------|------------------|
 | Road_Accident_Analysis |A Road Accident Analysist |Python, Pandas, Numpy, Seaborn|**[try it](https://shorturl.at/Hyyer)**  | [View GitHub Repo](https://shorturl.at/Hyyer) |
-|Titanic Dataset EDA|    |Perform EDA on Titanic dataset|Matplotlib, Pandas, Numpy, Seaborn|**[try it](https://shorturl.at/gBXdZ)** | [View GitHub Repo](https://shorturl.at/gBXdZ) |
+|Titanic Dataset EDA|Perform EDA on Titanic dataset|Matplotlib, Pandas, Numpy, Seaborn|**[try it](https://shorturl.at/gBXdZ)** | [View GitHub Repo](https://shorturl.at/gBXdZ) |
 
 
 ## 📊 GitHub Stats:
