@@ -91,8 +91,6 @@
 ## My Projects 
 ---
 
-## Project Details
-
 |Project                 | **Project Description**  |         **Technologies**                     | **Live Demo**        | **GitHub Repo**  |
 |------------------------|--------------------------|----------------------------------------------|----------------------|------------------|
 | Road_Accident_Analysis |A Road Accident Analysist |Python,Pandas,Numpy,Seaborn|**[try it](https://shorturl.at/Hyyer)**  | [View GitHub Repo](https://shorturl.at/Hyyer)         |  
