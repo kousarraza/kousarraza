@@ -93,9 +93,9 @@
 
 ## Project Details
 
-| **Project Description** | **Technologies**       | **Live Demo**                   | **GitHub Repo**               |
-|--------------------------|------------------------|----------------------------------|--------------------------------|
-| A brief project summary. | - Technology 1<br>- Technology 2<br>- Technology 3 | [View Live Demo](#)            | [View GitHub Repo](#)         |  
+| **Project Description**  |         **Technologies**                   | **Live Demo**                   | **GitHub Repo**               |
+|--------------------------|--------------------------------------------|----------------------------------|--------------------------------|
+| Road_Accident_Analysis | - Python<br>- Pandas<br>- Numpy<br>-  Seaborn| **#(try it(https://shorturl.at/Hyyer)**             | [View GitHub Repo](#)         |  
 
 
 ## 📊 GitHub Stats:
