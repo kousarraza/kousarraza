@@ -88,6 +88,15 @@
 </div>   
 
 
+## My Projects 
+---
+
+## Project Details
+
+| **Project Description** | **Technologies**       | **Live Demo**                   | **GitHub Repo**               |
+|--------------------------|------------------------|----------------------------------|--------------------------------|
+| A brief project summary. | - Technology 1<br>- Technology 2<br>- Technology 3 | [View Live Demo](#)            | [View GitHub Repo](#)         |  
+
 
 ## 📊 GitHub Stats:
   
