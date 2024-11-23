@@ -93,9 +93,9 @@
 
 ## Project Details
 
-| **Project Description**  |         **Technologies**                   | **Live Demo**                   | **GitHub Repo**               |
-|--------------------------|--------------------------------------------|----------------------------------|--------------------------------|
-| Road_Accident_Analysis | - Python<br>- Pandas<br>- Numpy<br>-  Seaborn| **#(try it(https://shorturl.at/Hyyer)**             | [View GitHub Repo](#)         |  
+|Project                 | **Project Description**  |         **Technologies**                   | **Live Demo**                   | **GitHub Repo**               |
+|------------------------|--------------------------|--------------------------------------------|----------------------------------|--------------------------------|
+| Road_Accident_Analysis || A Road Accident Analysist find Driving_experience	Lanes_or_Medians,Road_surface_type,Type_of_collision &Vehicle_movement| - Python<br>- Pandas<br>- Numpy<br>-  Seaborn| **#(try it(https://shorturl.at/Hyyer)**             | [View GitHub Repo](#)         |  
 
 
 ## 📊 GitHub Stats:
