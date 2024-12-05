@@ -109,6 +109,8 @@
 <div align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=kousarraza&theme=ads-juicy-fresh&hide_border=true" alt="GitHub Streak Stats">
 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kousarraza)](https://git.io/streak-stats)
 </div>
   
 <br/>
