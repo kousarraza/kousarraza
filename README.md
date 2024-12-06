@@ -1,5 +1,5 @@
-     <p  align="left"> <img    src="https://komarev.com/ghpvc/?username=kousarraza&label=Profile%20views&style=circle&color=blue" alt="views"/>
-<!-- Counter End --></p>      
+ <p  align="left"> <img    src="https://komarev.com/ghpvc/?username=kousarraza&label=Profile%20views&style=circle&color=blue" alt="views"/>
+<!-- Counter End --></p>       
               
 <!-- Animated Hacker image -->     
             
@@ -109,8 +109,6 @@
 <div align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=kousarraza&theme=ads-juicy-fresh&hide_border=true" alt="GitHub Streak Stats">
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=kousarraza)](https://git.io/streak-stats)
 </div>
   
 <br/>
