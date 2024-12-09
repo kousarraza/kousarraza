@@ -1,9 +1,9 @@
    <p  align="left"> <img    src="https://komarev.com/ghpvc/?username=kousarraza&label=Profile%20views&style=circle&color=blue" alt="views"/>
 <!-- Counter End --></p>       
-                        
+                          
 <!-- Animated Hacker image -->     
               
-<p align="center"> <img  alt="Coding" width="300"   src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"></p>               
+<p align="center"> <img  alt="Coding" width="300"   src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"></p>                   
   
    [![committers.top badge](https://user-badge.committers.top/pakistan/kousarraza.svg)]                         
 [![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/USERNAME
