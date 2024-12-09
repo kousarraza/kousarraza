@@ -6,7 +6,7 @@
 <p align="center"> <img  alt="Coding" width="300"   src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"></p>                   
   
    [![committers.top badge](https://user-badge.committers.top/pakistan/kousarraza.svg)]                         
-[![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/USERNAME
+[![committers.top badge](https://user-badge.committers.top/pakistan/kousarraza.svg)] (https://user-badge.committers.top/pakistan/USERNAME
 
    
 --------------------------------                 
