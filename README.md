@@ -108,7 +108,7 @@
 <br/>
 
 <div align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=kousarraza&theme=ads-juicy-fresh&hide_border=true" alt="GitHub Streak Stats">
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=kousarraza&theme=merko&hide_border=true" alt="GitHub Streak Stats">
 
 </div>
   
