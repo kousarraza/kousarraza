@@ -113,9 +113,6 @@
 </div>
   
 <br/>
-<div>
-  <img src="[![GitHub Streak](https://streak-stats.demolab.com/?user=kousarraza&theme=dark)](https://git.io/streak-stats)">
-</div>
 
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kousarraza&theme=ads-juicy-fresh&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"> 
