@@ -1,4 +1,4 @@
- <p  align="left"> <img            src="https://komarev.com/ghpvc/?username=kousarraza&label=Profile%20views&style=circle&color=blue" alt="views"/> 
+
                                                                                                                                                        
 <!-- Counter End --></p>                                                                                                                                                                   <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=kousarraza&label=Profile%20views&color=0e75b6&style=flat" alt="kousarraza" />
@@ -19,7 +19,7 @@
      
 --------------------------------------
 
-<h1 align="center">Hi 👋, I'm Kousar Raza</h1>
+<h1 align="center">Hi <a href="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"/a>, I'm Kousar Raza</h1>
 <h3 align="center">Data Science & AI Enthusiast | Python Developer | Continuous Learner</h3>
 
 <p align="center">
