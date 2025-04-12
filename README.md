@@ -9,10 +9,20 @@
                                                                                       
 <!-- Animated Hacker image -->                             
                                                            
-<p align="center"> <img    alt="Coding" width="300"   src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"></p>   
+----------
+
+<p align="center"> 
+  <img alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+</p>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=28&duration=3000&pause=1000&color=1AA1F7&center=true&vCenter=true&width=435&lines=I+am+Kousar+Raza" alt="Typing SVG" />
+  </a>
+</div>
 
 -------                                         
- <h1 align="center">Hi><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" /></a>, I'm Kousar Raza</h1>             
+ <h1 align="center"></a>, I'm Kousar Raza</h1>             
 
 --------------------------------------
 
