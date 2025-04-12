@@ -5,19 +5,19 @@
   <a href="https://user-badge.committers.top/pakistan/kousarraza">
     <img src="https://user-badge.committers.top/pakistan/kousarraza.svg" alt="Top Committers in Pakistan">
   </a>
-</p>                                                          
+</p>                                                            
                                                                                       
 <!-- Animated Hacker image -->                             
                                                            
 <p align="center"> <img    alt="Coding" width="300"   src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"></p>   
-         
---------------------------------                           
-<p>Hey!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" /></p>
-------
 
-<div  align="center"> <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?
-<p>Hey!</p><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" />
-<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=80&size=24&duration=8000&pause=1000&color=1AA1F7&center=true&vCenter=true&random=false&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Kousar+Raza;I+am+a+Programmer;Always+Learning+new+things" alt="Typing SVG" /></a></div>                                           
+-------
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=80&size=24&duration=8000&pause=1000&color=1AA1F7&center=true&vCenter=true&random=false&width=500&lines=Hey<img src='https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif' width='30px'/>%2C+I'm+Kousar+Raza;I+am+a+Programmer;Always+Learning+new+things" alt="Typing SVG" />
+  </a>
+</div>                                          
               
 
 --------------------------------------
