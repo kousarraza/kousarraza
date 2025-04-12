@@ -1,11 +1,11 @@
  <p  align="left"> <img            src="https://komarev.com/ghpvc/?username=kousarraza&label=Profile%20views&style=circle&color=blue" alt="views"/> 
-
-<p align="center">
+                                                                                                                                                       
+<!-- Counter End --></p>                                                                                                                                                                   <p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=kousarraza&label=Profile%20views&color=0e75b6&style=flat" alt="kousarraza" />
   <a href="https://user-badge.committers.top/pakistan/kousarraza">
     <img src="https://user-badge.committers.top/pakistan/kousarraza.svg" alt="Top Committers in Pakistan">
   </a>
-</p>                                                                                                                                                          
-<!-- Counter End --></p>                                                                                                                                                                                                                            
+</p>                                                          
                                                                                       
 <!-- Animated Hacker image -->                             
                                                            
