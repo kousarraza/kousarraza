@@ -15,11 +15,12 @@
   <img alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 </p>
 
-<div align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=28&duration=3000&pause=1000&color=1AA1F7&center=true&vCenter=true&width=435&lines=I+am+Kousar+Raza" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=28&duration=5000&pause=1500&color=1AA1F7&center=true&vCenter=true&width=400&lines=I+am+Kousar+Raza" alt="Typing Animation">
   </a>
-</div>
+</p>
+
 
 -------                                         
  <h1 align="center"></a>, I'm Kousar Raza</h1>             
