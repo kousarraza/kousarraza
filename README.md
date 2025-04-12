@@ -10,16 +10,13 @@
 <!-- Animated Hacker image -->                             
                                                            
 ----------
-
-<p align="center"> 
-  <img alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-</p>
-
-<p align="center">>Hi><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" /></a>
+<p align="center">
+  Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" />
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=28&duration=5000&pause=1500&color=1AA1F7&center=true&vCenter=true&width=400&lines=I+am+Kousar+Raza" alt="Typing Animation">
+    <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=28&duration=5000&pause=1500&color=1AA1F7&center=true&vCenter=true&width=400&lines=I+am+Kousar+Raza" alt="Typing Animation" style="display: inline-block; vertical-align: middle;">
   </a>
 </p>
+
 
 
 -------                                         
