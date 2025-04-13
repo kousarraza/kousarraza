@@ -37,10 +37,13 @@
   
 I'm a **Data Science Specialist** with a passion for transforming raw data into intelligent solutions. With expertise in machine learning pipelines and statistical modeling, I bridge the gap between data and business value.
 
-- 🚀 **Current Focus**: Building end-to-end ML systems at scale
-- 🌱 **Learning**: MLOps & Deep Learning architectures
-- 💡 **Philosophy**: "Clean data beats clever algorithms"
-- ⚡ **Fun Fact**: I automate my morning coffee routine with Python!
+- 🚀 **Current Focus**: Building NLP for Sindhi Language 
+- 🌱 **Learning**: **Advanced Data Science & AI Concepts**
+- 👯 Looking to collaborate on **Real-World Data Projects**
+- 💬 Ask me about **Python, Machine Learning, and Artificial Intelligence **
+- ⚡ Fun fact: **I solve coding problems with humor! 😄**
+-  💡 **Philosophy**: "Clean data beats clever algorithms"
+
 
 </div>
 
