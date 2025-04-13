@@ -16,8 +16,10 @@
   <span style="display: inline-flex; align-items: center; margin-right: 15px;">
     <img src="https://img.shields.io/github/followers/kousarraza?label=Followers&style=social" alt="GitHub followers"/>
   </span>
-  <span style="display: inline-flex; align-items: center;"> 
-    <img src="https://user-badge.committers.top/pakistan_public/kousarraza.svg" alt="Top Committers in Pakistan"/>
+  <span style="display: inline-flex; align-items: center;">
+    <a href="https://user-badge.committers.top/pakistan/kousarraza">
+    <img src="https://user-badge.committers.top/pakistan/kousarraza.svg" alt="Top Committers in Pakistan">
+    </a>
   </span>
 </p>
 
