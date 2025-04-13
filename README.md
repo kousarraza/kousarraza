@@ -15,6 +15,15 @@
   </a>
 </p>
 
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=kousarraza&label=Profile%20views&color=0e75b6&style=flat" alt="kousarraza" />
+  <a href="https://user-badge.committers.top/pakistan/kousarraza">
+    <img src="https://user-badge.committers.top/pakistan/kousarraza.svg" alt="Top Committers in Pakistan">
+  </a>
+</p>
+
+
 <p align="center">
   <span>Top committers in Pakistan | Github Contributor</span>
 </p>
