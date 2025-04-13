@@ -12,6 +12,18 @@
 </p>
 
 <!-- Profile cards with glow effect -->
+<p align="center">
+  <span style="display: inline-flex; align-items: center; margin-right: 15px;">
+    <img src="https://komarev.com/ghpvc/?username=kousarraza&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  </span>
+  <span style="display: inline-flex; align-items: center; margin-right: 15px;">
+    <img src="https://img.shields.io/github/followers/kousarraza?label=Followers&style=social" alt="GitHub followers"/>
+  </span>
+  <span style="display: inline-flex; align-items: center;">
+    <img src="https://user-badge.committers.top/pakistan_public/kousarraza.svg" alt="Top Committers in Pakistan"/>
+  </span>
+</p>
+
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <div style="background: #0d1117; border-radius: 10px; padding: 15px; box-shadow: 0 0 15px #58a6ff; min-width: 200px;">
     <img src="https://komarev.com/ghpvc/?username=kousarraza&label=Profile+Views&color=58a6ff&style=flat" alt="Profile Views">
