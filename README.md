@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<hr style="border-top: 2px solid #ccc; width: 80%; margin: 20px auto;">
+<hr style="border-top: 1px solid #ccc; width: 80%; margin: 20px auto;">
 
 <h3 align="center">Data Science & AI Enthusiast | Python Developer | Continuous Learner</h3>
 
@@ -19,8 +19,7 @@
   <span>Top committers in Pakistan | Github Contributor</span>
 </p>
 
-<hr style="border-top: 2px solid #ccc; width: 80%; margin: 20px auto;">
-
+<hr style="border-top: 1px solid #ccc; width: 80%; margin: 20px auto;">
 
 
 
