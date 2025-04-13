@@ -83,37 +83,8 @@ I'm a **Data Science Specialist** with a passion for transforming raw data into 
 
 ---
 
-## 🤝 Connect With Me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/kousarraza110/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/>
-  </a>
-  <a href="https://www.kaggle.com/kousarraza" target="_blank">
-    <img src="https://img.icons8.com/windows/48/000000/kaggle.png" alt="Kaggle" width="40"/>
-  </a>
-  <a href="https://github.com/kousarraza" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="40"/>
-  </a>
-  <a href="mailto:kousarraza69@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="40"/>
-  </a>
-  <a href="https://medium.com/@kousarraza69" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/medium-logo.png" alt="Medium" width="40"/>
-  </a>
-</div>
-
-
-
-
-
-
-
-
-<!-- Contact with animated icons -->
-## 🌐 Let's Connect
-
-## 🌐 Let's Connect
+## 🌐 Let's Connect🤝
 
 <div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 30px 0;">
 
@@ -159,16 +130,7 @@ I'm a **Data Science Specialist** with a passion for transforming raw data into 
 
 </div>
 
-<style>
-  @keyframes pulse {
-    0% { transform: scale(1); }
-    50% { transform: scale(1.15); }
-    100% { transform: scale(1); }
-  }
-  a:hover {
-    transform: translateY(-5px);
-  }
-</style>
+
 
 
 <!-- CSS Animations -->
