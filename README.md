@@ -21,18 +21,6 @@
   </span>
 </p>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <div style="background: #0d1117; border-radius: 10px; padding: 15px; box-shadow: 0 0 15px #58a6ff; min-width: 200px;">
-    <img src="https://komarev.com/ghpvc/?username=kousarraza&label=Profile+Views&color=58a6ff&style=flat" alt="Profile Views">
-  </div>
-  <div style="background: #0d1117; border-radius: 10px; padding: 15px; box-shadow: 0 0 15px #8a2be2; min-width: 200px;">
-    <img src="https://img.shields.io/github/followers/kousarraza?label=Followers&color=8a2be2&style=flat" alt="GitHub Followers">
-  </div>
-  <div style="background: #0d1117; border-radius: 10px; padding: 15px; box-shadow: 0 0 15px #2ecc71; min-width: 200px;">
-    <img src="https://user-badge.committers.top/pakistan/kousarraza.svg" alt="Top Committers Pakistan">
-  </div>
-</div>
-
 <!-- Animated coding GIF with floating effect -->
 <p align="center" style="animation: float 6s ease-in-out infinite;">
   <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="Coding" width="350" style="border-radius: 15px; border: 2px solid #58a6ff;">
