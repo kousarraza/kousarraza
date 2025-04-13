@@ -1,6 +1,13 @@
-<div  align="center"><a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=80&size=24&duration=8000&pause=1000&color=1AA1F7&center=true&vCenter=true&random=false&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Kousar+Raza;" alt="Typing SVG" /></a></div>  
-<hr>           
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=80&size=24&duration=8000&pause=1000&color=1AA1F7&center=true&vCenter=true&random=false&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Kousar+Raza;" alt="Typing SVG" />
+  </a>
+</div>  
+
+<hr style="border-top: 2px solid #ddd; width: 80%; margin: 20px auto;">
+
 <h3 align="center">Data Science & AI Enthusiast | Python Developer | Continuous Learner</h3>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kousarraza&label=Profile%20views&color=0e75b6&style=flat" alt="kousarraza" style="display: inline-block; margin-right: 10px;" />
   <a href="https://github.com/kousarraza?tab=followers" style="display: inline-block; margin-right: 10px;">
@@ -11,15 +18,11 @@
   </a>
 </p>
 
-
-
-
-
 <p align="center">
   <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="Coding" width="300">
 </p>
 
----
+<hr style="border-top: 2px solid #ddd; width: 80%; margin: 20px auto;">
 
 ## 🚀 About Me
 
@@ -32,7 +35,7 @@ I'm a passionate data science enthusiast and Python developer with strong skills
 - 📫 How to reach me: kousarraza69@gmail.com
 - ⚡ Fun fact: I believe humor is essential in code debugging!
 
----
+<hr style="border-top: 2px solid #ddd; width: 80%; margin: 20px auto;">
 
 ## 🛠 Technical Skills
 
@@ -61,20 +64,17 @@ I'm a passionate data science enthusiast and Python developer with strong skills
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
----
+<hr style="border-top: 2px solid #ddd; width: 80%; margin: 20px auto;">
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kousarraza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kousarraza&layout=compact&langs_count=8&theme=radical"/>
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kousarraza&theme=radical" alt="GitHub Streak Stats">
-  
 </div>
 
----
+<hr style="border-top: 2px solid #ddd; width: 80%; margin: 20px auto;">
 
 ## 🤝 Connect With Me
 
@@ -96,7 +96,7 @@ I'm a passionate data science enthusiast and Python developer with strong skills
   </a>
 </p>
 
----
+<hr style="border-top: 2px solid #ddd; width: 80%; margin: 20px auto;">
 
 ## ✍️ Today's Quote
 
