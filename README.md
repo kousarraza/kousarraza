@@ -11,11 +11,7 @@
   </a>
 </p>
 
-<p align="center">
-  <span>Top committers in Pakistan | Github Contributor</span>
-</p>
 
-<hr style="border-top: 1px solid #ccc; width: 80%; margin: 20px auto;">
 
 
 
