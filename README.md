@@ -40,9 +40,9 @@ I'm a **Data Science Specialist** with a passion for transforming raw data into 
 - 🚀 **Current Focus**: Building NLP for Sindhi Language 
 - 🌱 **Learning**: **Advanced Data Science & AI Concepts**
 - 👯 Looking to collaborate on **Real-World Data Projects**
-- 💬 Ask me about **Python, Machine Learning, and Artificial Intelligence **
+- 💬 Ask me about **Python, Machine Learning, and Artificial Intelligence**
 - ⚡ Fun fact: **I solve coding problems with humor!😄**
--  💡 **Philosophy**: "Clean data beats clever algorithms"
+-  💡 **Philosophy**: Clean data beats clever algorithms
 
 
 </div>
