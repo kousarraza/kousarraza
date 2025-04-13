@@ -113,6 +113,62 @@ I'm a **Data Science Specialist** with a passion for transforming raw data into 
 <!-- Contact with animated icons -->
 ## 🌐 Let's Connect
 
+## 🌐 Let's Connect
+
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 30px 0;">
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/kousarraza110/" target="_blank" style="transition: transform 0.3s;">
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="45" style="animation: pulse 2s infinite; filter: drop-shadow(0 0 5px #0077B5);"/>
+</a>
+
+<!-- Facebook -->
+<a href="https://web.facebook.com/RaXa.Kousar110" target="_blank" style="transition: transform 0.3s;">
+  <img src="https://img.icons8.com/fluent/48/000000/facebook.png" width="45" style="animation: pulse 2s infinite 0.2s; filter: drop-shadow(0 0 5px #1877F2);"/>
+</a>
+
+<!-- Instagram -->
+<a href="https://www.instagram.com/razakousar110/" target="_blank" style="transition: transform 0.3s;">
+  <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="45" style="animation: pulse 2s infinite 0.4s; filter: drop-shadow(0 0 5px #E4405F);"/>
+</a>
+
+<!-- YouTube -->
+<a href="https://www.youtube.com/channel/UCPz6tDmaaSONeO-jAmIlaNw" target="_blank" style="transition: transform 0.3s;">
+  <img src="https://img.icons8.com/fluent/48/000000/youtube.png" width="45" style="animation: pulse 2s infinite 0.6s; filter: drop-shadow(0 0 5px #FF0000);"/>
+</a>
+
+<!-- Discord -->
+<a href="https://discord.com/channels/@me" target="_blank" style="transition: transform 0.3s;">
+  <img src="https://img.icons8.com/fluent/48/000000/discord.png" width="45" style="animation: pulse 2s infinite 0.8s; filter: drop-shadow(0 0 5px #5865F2);"/>
+</a>
+
+<!-- Kaggle -->
+<a href="https://www.kaggle.com/kousarraza" target="_blank" style="transition: transform 0.3s;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="45" style="animation: pulse 2s infinite 1.0s; filter: drop-shadow(0 0 5px #20BEFF);"/>
+</a>
+
+<!-- Medium -->
+<a href="https://medium.com/@kousarraza69" target="_blank" style="transition: transform 0.3s;">
+  <img src="https://img.icons8.com/color/48/000000/medium-logo.png" width="45" style="animation: pulse 2s infinite 1.2s; filter: drop-shadow(0 0 5px #000000);"/>
+</a>
+
+<!-- Stack Overflow -->
+<a href="https://stackoverflow.com/users/10299653/kousar-raza" target="_blank" style="transition: transform 0.3s;">
+  <img src="https://img.icons8.com/fluent/48/000000/stackoverflow.png" width="45" style="animation: pulse 2s infinite 1.4s; filter: drop-shadow(0 0 5px #F48024);"/>
+</a>
+
+</div>
+
+<style>
+  @keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.15); }
+    100% { transform: scale(1); }
+  }
+  a:hover {
+    transform: translateY(-5px);
+  }
+</style>
 
 
 <!-- CSS Animations -->
