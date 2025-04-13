@@ -22,31 +22,20 @@
 
 ---
 
-## 🚀 Professional Summary
+## 🛠 Technical Skills
 
-Data Science professional with expertise in machine learning, statistical modeling, and data visualization. Passionate about transforming raw data into actionable insights and developing intelligent systems. Strong background in Python programming and data analysis with a commitment to continuous learning and professional growth.
+<div align="center">
 
----
+| Category               | Skills                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Programming**        | <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" />                                                                                                                     |
+| **Data Science**       | <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />                                                                                                    |
+| **Data Visualization** | <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=image%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAAACXBIWXMAAA3XAAAN1wFCKJt4AAAAB3RJTUUH4AkEBDIspXTcTQAAAB1pVFh0Q29tbWVudAAAAAAAQ3JlYXRlZCB3aXRoIEdJTVBkLmUHAAAAJklEQVR42u3NMQ0AAAgEoNP%2FBW3o2BAM0o1xmJOTk5OTk5OTk5OTk5MvJQ8%2F8AjjVQAAAABJRU5ErkJggg%3D%3D" /> <img src="https://img.shields.io/badge/Seaborn-2596BE?logo=seaborn&logoColor=white" /> <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" /> |
+| **Database**           | <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />                                                                                                                                                                                                        |
+| **Dev Tools**          | <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white" />                                                                                                            |
+| **Cloud Platforms**    | <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" /> <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white" />                                                                                                                                                                                            |
 
-## � Core Competencies
-
-| Category              | Technologies & Skills |
-|-----------------------|----------------------|
-| **Programming**       | Python, JavaScript, C, SQL |
-| **Data Science**      | Pandas, NumPy, Scikit-learn, TensorFlow |
-| **Data Visualization**| Matplotlib, Seaborn, Plotly, Tableau |
-| **Database**          | MySQL, SQLite, MongoDB |
-| **Dev Tools**         | Git, Docker, VS Code, Jupyter |
-| **Cloud Platforms**   | AWS, Google Cloud, Heroku |
-| **Methodologies**     | Agile, CRISP-DM, Data Cleaning, EDA |
-
----
-
-## 🔭 Current Projects
-
-- **[100 Days of Code Challenge](https://github.com/kousarraza/100-Days-of-Code_Zero_to_Hero)** - Daily coding practice and skill development
-- **Machine Learning Model Deployment** - Building end-to-end ML pipelines
-- **Data Analysis Portfolio** - Collection of real-world data analysis projects
+</div>
 
 ---
 
@@ -72,34 +61,22 @@ Data Science professional with expertise in machine learning, statistical modeli
 
 ---
 
-## 🏆 Certifications & Education
-
-- **Data Science Certification** - Coursera
-- **Python for Data Science** - Udemy
-- **BSc in Computer Science** - [Your University]
-
----
-
-## 🤝 Professional Network
+## 🤝 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kousarraza110/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/>
   </a>
   <a href="https://www.kaggle.com/kousarraza" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
+    <img src="https://img.icons8.com/windows/48/000000/kaggle.png" alt="Kaggle" width="40"/>
   </a>
-  <a href="https://medium.com/@kousarraza69" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  <a href="https://github.com/kousarraza" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="40"/>
   </a>
   <a href="mailto:kousarraza69@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="40"/>
+  </a>
+  <a href="https://medium.com/@kousarraza69" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/medium-logo.png" alt="Medium" width="40"/>
   </a>
 </div>
-
----
-
-## ✍️ Professional Philosophy
-
-> "In God we trust, all others must bring data."  
-> — W. Edwards Deming, Statistician and Quality Control Expert
