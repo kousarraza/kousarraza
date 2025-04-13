@@ -7,9 +7,6 @@
 </div>
 
 <!-- Animated divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg" width="100%">
-</p>
 
 <!-- Profile cards with glow effect -->
 <p align="center">
