@@ -1,104 +1,105 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=80&size=24&duration=8000&pause=1000&color=1AA1F7&center=true&vCenter=true&random=false&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Kousar+Raza;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=28&duration=1500&pause=500&color=1AA1F7&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B%2C+I'm+Kousar+Raza" alt="Typing Animation"/>
   </a>
-</div>  
-
-<hr style="border-top: 2px solid #ddd; width: 80%; margin: 20px auto;">
-
-<h3 align="center">Data Science & AI Enthusiast | Python Developer | Continuous Learner</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kousarraza&label=Profile%20views&color=0e75b6&style=flat" alt="kousarraza" style="display: inline-block; margin-right: 10px;" />
-  <a href="https://github.com/kousarraza?tab=followers" style="display: inline-block; margin-right: 10px;">
-    <img src="https://img.shields.io/github/followers/kousarraza?label=Followers&style=social" alt="GitHub followers" />
-  </a>
-  <a href="https://user-badge.committers.top/pakistan/kousarraza" style="display: inline-block;">
-    <img src="https://user-badge.committers.top/pakistan/kousarraza.svg" alt="Top Committers in Pakistan" />
-  </a>
-</p>
+  
+  <h3>Data Science & AI Specialist | Python Developer | ML Engineer</h3>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=kousarraza&label=Profile%20views&color=0e75b6&style=flat" alt="kousarraza"/>
+    <a href="https://github.com/kousarraza?tab=followers">
+      <img src="https://img.shields.io/github/followers/kousarraza?label=Followers&style=social" alt="GitHub followers"/>
+    </a>
+    <a href="https://user-badge.committers.top/pakistan/kousarraza">
+      <img src="https://user-badge.committers.top/pakistan/kousarraza.svg" alt="Top Committers in Pakistan"/>
+    </a>
+  </p>
+</div>
 
 <p align="center">
   <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="Coding" width="300">
 </p>
 
-<hr style="border-top: 2px solid #ddd; width: 80%; margin: 20px auto;">
+---
 
-## 🚀 About Me
+## 🚀 Professional Summary
 
-I'm a passionate data science enthusiast and Python developer with strong skills in data analysis, visualization, and statistical modeling. I thrive on turning complex data into actionable insights and building intelligent solutions.
+Data Science professional with expertise in machine learning, statistical modeling, and data visualization. Passionate about transforming raw data into actionable insights and developing intelligent systems. Strong background in Python programming and data analysis with a commitment to continuous learning and professional growth.
 
-- 🔭 Currently working on: [100 Days of Code Challenge](https://github.com/kousarraza/100-Days-of-Code_Zero_to_Hero)
-- 🌱 Learning: Advanced Machine Learning & Deep Learning techniques
-- 👨‍💻 All projects: [GitHub Repositories](https://github.com/kousarraza?tab=repositories)
-- 💬 Ask me about: Python, Pandas, NumPy, Data Visualization, EDA
-- 📫 How to reach me: kousarraza69@gmail.com
-- ⚡ Fun fact: I believe humor is essential in code debugging!
+---
 
-<hr style="border-top: 2px solid #ddd; width: 80%; margin: 20px auto;">
+## � Core Competencies
 
-## 🛠 Technical Skills
+| Category              | Technologies & Skills |
+|-----------------------|----------------------|
+| **Programming**       | Python, JavaScript, C, SQL |
+| **Data Science**      | Pandas, NumPy, Scikit-learn, TensorFlow |
+| **Data Visualization**| Matplotlib, Seaborn, Plotly, Tableau |
+| **Database**          | MySQL, SQLite, MongoDB |
+| **Dev Tools**         | Git, Docker, VS Code, Jupyter |
+| **Cloud Platforms**   | AWS, Google Cloud, Heroku |
+| **Methodologies**     | Agile, CRISP-DM, Data Cleaning, EDA |
 
-### Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+---
 
-### Data Science & ML
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-%230C55A5.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+## 🔭 Current Projects
 
-### Tools & Platforms
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+- **[100 Days of Code Challenge](https://github.com/kousarraza/100-Days-of-Code_Zero_to_Hero)** - Daily coding practice and skill development
+- **Machine Learning Model Deployment** - Building end-to-end ML pipelines
+- **Data Analysis Portfolio** - Collection of real-world data analysis projects
 
-### Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+---
 
-<hr style="border-top: 2px solid #ddd; width: 80%; margin: 20px auto;">
-
-## 📈 GitHub Stats
+## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kousarraza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kousarraza&layout=compact&langs_count=8&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kousarraza&theme=radical" alt="GitHub Streak Stats">
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kousarraza&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kousarraza&layout=compact&langs_count=8&theme=algolia"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kousarraza&theme=algolia" alt="GitHub Streak Stats">
+      </td>
+    </tr>
+  </table>
 </div>
 
-<hr style="border-top: 2px solid #ddd; width: 80%; margin: 20px auto;">
+---
 
-## 🤝 Connect With Me
+## 🏆 Certifications & Education
 
-<p align="center">
+- **Data Science Certification** - Coursera
+- **Python for Data Science** - Udemy
+- **BSc in Computer Science** - [Your University]
+
+---
+
+## 🤝 Professional Network
+
+<div align="center">
   <a href="https://www.linkedin.com/in/kousarraza110/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.kaggle.com/kousarraza" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
   </a>
   <a href="https://medium.com/@kousarraza69" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-  </a>
-  <a href="https://stackoverflow.com/users/10299653/kousar-raza" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
   <a href="mailto:kousarraza69@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</p>
+</div>
 
-<hr style="border-top: 2px solid #ddd; width: 80%; margin: 20px auto;">
+---
 
-## ✍️ Today's Quote
+## ✍️ Professional Philosophy
 
-> "Data is a precious thing and will last longer than the systems themselves."  
-> — Tim Berners-Lee, inventor of the World Wide Web
+> "In God we trust, all others must bring data."  
+> — W. Edwards Deming, Statistician and Quality Control Expert
