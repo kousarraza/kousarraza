@@ -41,7 +41,7 @@ I'm a **Data Science Specialist** with a passion for transforming raw data into 
 - 🌱 **Learning**: **Advanced Data Science & AI Concepts**
 - 👯 Looking to collaborate on **Real-World Data Projects**
 - 💬 Ask me about **Python, Machine Learning, and Artificial Intelligence **
-- ⚡ Fun fact: **I solve coding problems with humor! 😄**
+- ⚡ Fun fact: **I solve coding problems with humor!😄**
 -  💡 **Philosophy**: "Clean data beats clever algorithms"
 
 
