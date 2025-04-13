@@ -13,6 +13,9 @@
   <a href="https://github.com/kousarraza?tab=followers">
     <img src="https://img.shields.io/github/followers/kousarraza?label=Followers&style=social" alt="GitHub followers">
   </a>
+   <a href="https://user-badge.committers.top/pakistan/kousarraza">
+    <img src="https://user-badge.committers.top/pakistan/kousarraza.svg" alt="Top Committers in Pakistan">
+  </a>
 </p>
 
 
