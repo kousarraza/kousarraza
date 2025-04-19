@@ -8,7 +8,7 @@
 
 <!-- Animated divider -->
 
-<!-- Profile cards with glow effect -->
+<!-- Profile cards with glow effect -->  
 <p align="center">
   <span style="display: inline-flex; align-items: center; margin-right: 15px;">
     <img src="https://komarev.com/ghpvc/?username=kousarraza&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
