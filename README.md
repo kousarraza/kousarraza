@@ -80,7 +80,7 @@ I'm a **Data Science Specialist** with a passion for transforming raw data into 
     </tr>
     <tr>
       <td colspan="2">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kousarraza&theme=blue-green" alt="GitHub Streak Stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kousarraza&theme=navy-gear" alt="GitHub Streak Stats">
       </td>
     </tr>
   </table>
