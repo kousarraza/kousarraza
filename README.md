@@ -37,7 +37,7 @@
 
 <div style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 20px; border-radius: 15px; border-left: 4px solid #58a6ff;">
   
-I'm a **Data Science Specialist** with a passion for transforming raw data into intelligent solutions. With expertise in machine learning pipelines and statistical modeling, I bridge the gap between data and business value.
+I'm a **Data Science Specialist** with a passion for transforming raw data into intelligent solutions. With expertise in machine learning pipelines and statistical modeling, I bridge the gap between data and business value.  
 
 - 🚀 **Current Focus**: Building NLP for Sindhi Language 
 - 🌱 **Learning**: **Advanced Data Science & AI Concepts**
