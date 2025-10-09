@@ -5,7 +5,7 @@
   alt="Typing text: Hey 👋, I'm Kousar Raza" 
   style="text-shadow: 0 0 10px #58a6ff;"
 />
-                  
+                     
                                                                                                                                                           
   <!-- Animated gradient title -->   
   <h2 style="background: linear-gradient(90deg, #58a6ff, #8a2be2); -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: gradient 5s ease infinite; background-size: 200% 200%;">Data Science Architect | AI Developer | Python Expert</h2>
