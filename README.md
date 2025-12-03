@@ -1,6 +1,6 @@
 <!-- Header with animated typing and 3D effect -->                                              
 <div align="center">                                               
-  <img   
+  <img      
   src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=32&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B%2C+I'm+Kousar+Raza" 
   alt="Typing text: Hey 👋, I'm Kousar Raza" 
   style="text-shadow: 0 0 10px #58a6ff;"
