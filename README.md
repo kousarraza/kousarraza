@@ -87,6 +87,7 @@ I'm a **Data Science Specialist** with a passion for transforming raw data into 
       <td colspan="2">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=kousarraza&theme=microsoft-dark" alt="GitHub Streak Stats">
       </td>
+     [![GitHub Streak](https://streak-stats.demolab.com?user=kousarraza&theme=microsoft-dark)](https://git.io/streak-stats)
     </tr>
   </table>
 </div>
