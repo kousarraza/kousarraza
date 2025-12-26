@@ -83,13 +83,12 @@ I'm a **Data Science Specialist** with a passion for transforming raw data into 
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kousarraza&layout=compact&langs_count=8&theme=algolia"/>
       </td>
     </tr>
-   <!-- 
     <tr>
       <td colspan="2">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=kousarraza&theme=microsoft-dark" alt="GitHub Streak Stats">
       </td>
     </tr>
-    -->
+ 
   </table>
 </div>
 
