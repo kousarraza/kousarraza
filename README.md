@@ -74,7 +74,6 @@ I'm a **Data Science Specialist** with a passion for transforming raw data into 
 ## 📈 GitHub Analytics
 
 <div align="center">
- [![GitHub Streak](https://streak-stats.demolab.com?user=kousarraza)](https://git.io/streak-stats)
   <table>
     <tr>
       <td>
