@@ -77,7 +77,7 @@ I'm a **Data Science Specialist** with a passion for transforming raw data into 
   <table>
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kousarraza&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kousarraza&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
       </td>
       <td>
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kousarraza&layout=compact&langs_count=8&theme=algolia"/>
@@ -85,7 +85,7 @@ I'm a **Data Science Specialist** with a passion for transforming raw data into 
     </tr>
     <tr>
       <td colspan="2">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kousarraza&theme=microsoft-dark" alt="GitHub Streak Stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kousarraza&theme=chartreuse-dark" alt="GitHub Streak Stats">
       </td>
     </tr>
  
