@@ -85,6 +85,7 @@ I'm a **Data Science Specialist** with a passion for transforming raw data into 
     </tr>
     <tr>
       <td colspan="2">
+       <img src="![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kousarraza&show_icons=true&theme=dark&hide_border=true)" alt="GitHub Streak Stats">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=kousarraza&theme=chartreuse-dark" alt="GitHub Streak Stats">
       </td>
     </tr>
