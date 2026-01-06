@@ -141,9 +141,6 @@ I'm a **Data Science Specialist** with a passion for transforming raw data into 
   <img src="https://img.icons8.com/fluent/48/000000/stackoverflow.png" width="45" style="animation: pulse 2s infinite 1.4s; filter: drop-shadow(0 0 5px #F48024);"/>
 </a>
 
-<a href="https://orcid.org/my-orcid?orcid=0009-0007-5298-4469" target="_blank" style="transition: transform 0.3s;">
-  <img src="https://img.icons8.com/fluent/48/000000/orcid.png" width="45" style="animation: pulse 2s infinite 1.4s; filter: drop-shadow(0 0 5px #F48024);"/>
-</a>
 
 </div>
 
