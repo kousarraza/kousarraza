@@ -147,6 +147,13 @@ I'm a **Data Science Specialist** with a passion for transforming raw data into 
        width="45"
        style="animation: pulse 2s infinite 1.4s; filter: drop-shadow(0 0 5px #A6CE39);" />
 </a>
+<!-- Zenodo -->
+<a href="https://zenodo.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Zenodo_logo.svg"
+       width="45"
+       style="filter: drop-shadow(0 0 5px #1682D4); animation: pulse 2s infinite 1.4s;" />
+</a>
+
 
 
 </div>
