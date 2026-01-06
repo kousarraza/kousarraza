@@ -141,21 +141,6 @@ I'm a **Data Science Specialist** with a passion for transforming raw data into 
   <img src="https://img.icons8.com/fluent/48/000000/stackoverflow.png" width="45" style="animation: pulse 2s infinite 1.4s; filter: drop-shadow(0 0 5px #F48024);"/>
 </a>
 
-<!-- ORCID -->
-<a href="https://orcid.org/0009-0007-5298-4469" target="_blank" style="transition: transform 0.3s;">
-  <img src="https://img.icons8.com/color/48/orcid.png"
-       width="45"
-       style="animation: pulse 2s infinite 1.4s; filter: drop-shadow(0 0 5px #A6CE39);" />
-</a>
-<!-- Zenodo -->
-<a href="https://zenodo.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Zenodo_logo.svg"
-       width="45"
-       style="filter: drop-shadow(0 0 5px #1682D4); animation: pulse 2s infinite 1.4s;" />
-</a>
-
-
-
 </div>
 
 
