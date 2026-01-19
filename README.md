@@ -71,7 +71,7 @@ I'm a **Data Science Specialist** with a passion for transforming raw data into 
 
 ---
 
-<!--
+
 ## 📈 GitHub Analytics
 
 <div align="center">
@@ -93,7 +93,6 @@ I'm a **Data Science Specialist** with a passion for transforming raw data into 
  
   </table>
 </div>
--->
 ---
 
 
