@@ -71,14 +71,14 @@ I'm a **Data Science Specialist** with a passion for transforming raw data into 
 
 ---
 
-<!-- 
+
 ## 📈 GitHub Analytics
 
 <div align="center">
   <table>
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kousarraza&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kousarraza&show_icons=true&theme=github-green-purple&include_all_commits=true&count_private=true"/>
       </td>
       <td>
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kousarraza&layout=compact&langs_count=8&theme=algolia"/>
@@ -91,8 +91,8 @@ I'm a **Data Science Specialist** with a passion for transforming raw data into 
 
  <tr>
       <td colspan="2">
-       <img src="![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kousarraza&show_icons=true&theme=vision-friendly-dark&hide_border=true)" alt="GitHub Streak Stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kousarraza&theme=chartreuse-dark" alt="GitHub Streak Stats">
+       <img src="![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kousarraza&show_icons=true&theme=github-green-purple&hide_border=true)" alt="GitHub Streak Stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kousarraza&theme=github-green-purple" alt="GitHub Streak Stats">
       </td>
     </tr>
 
